@@ -7,7 +7,7 @@ Wing On Insurance is a medium size insurance company in Hong Kong wanting to use
 
 The dataset consists of 1,320 cases, in .csv format and the following data dictionary:
 
-![image-20230313224245983](/Users/sean/Library/Application Support/typora-user-images/image-20230313224245983.png)
+![image-20230313224245983](/Users/sean/OneDrive - connect.hku.hk/ECOM7126/Assignment/Code/Machine-Learning-7126/images/readme/image-20230313224245983.png)
 
 Note: NT = New Territory
 
@@ -47,7 +47,7 @@ weight of the diamond (1 carat = 0.2 g) quality of the cut rated by experts (Fai
 
 To learn more about the above parameters of a diamond, you are encouraged to visit the following website: https://www.diamonds.pro/education. The following information may also be helpful:
 
-![image-20230313224427650](/Users/sean/Library/Application Support/typora-user-images/image-20230313224427650.png)
+![image-20230313224427650](/Users/sean/OneDrive - connect.hku.hk/ECOM7126/Assignment/Code/Machine-Learning-7126/images/readme/image-20230313224427650.png)
 
 ### Deliverable:
 
