@@ -67,3 +67,18 @@ To learn more about the above parameters of a diamond, you are encouraged to vis
 3. Any observation you may have in your project to the management of the company.
 
 **Datasets provided: DiamondDataset.csv**
+
+## Assignment 3 - Customer Analysis (Unsupervised Learning)
+
+A small e-commerce company want to understand its customers better using Machine Learning to target their loyalty program and promotion campaigns etc. Analyze the dataset provided (which is purposely kept small for exploration purpose).
+
+
+You should include the following in your report (plus your Colab notebook with you Python code to get the results):
+
+1. How you tackle the dataset and what you want to find out.
+
+2. Analyze the data to achieve your objective and write a report to the management.
+
+3. Discuss what you have learned from the data, try to make appropriate recommendation(s) to the management.
+
+Dataset provided: CustomerDataset.csv
