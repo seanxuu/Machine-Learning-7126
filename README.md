@@ -1,5 +1,5 @@
 # Machine-Learning-7126
- This is a repository about ECOM7126
+ This is a repository about HKU-ECOM7126
 
 ## Assignment 1 – Insurance Claims Prediction
 
