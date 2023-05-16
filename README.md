@@ -82,3 +82,21 @@ You should include the following in your report (plus your Colab notebook with y
 3. Discuss what you have learned from the data, try to make appropriate recommendation(s) to the management.
 
 Dataset provided: CustomerDataset.csv
+
+## Assignment 4 – Spam Email Prediction using Neural Network
+
+A cyber security company wishes to develop a SPAM filter based Artificial Neural Network. A sample of 4,600 emails are collected within a certain period randomly from the company’s email server, and 48 of words, 6 characters (or symbols) and other features are randomly picked from these email samples as input to train the Neural Network. The emails are then carefully labeled as SPAM or HAM (not spam). Your job is to build a Neural Network based spam filter and demonstrate the quality of your model.
+
+The dataset consists of 4,600 of labelled instances, in .csv format. The dataset is already randomized and the first 3,600 samples are for training, and the remaining 1,000 samples are for testing.
+
+You should include the following in your report (plus your Colab notebook with you Python code to get the results):
+
+1. Examine and understanding the feature set provided and handle any issues, if any, in the dataset.
+
+2. Design a multi-layer neural network, train the network with the appropriate validation, then test your final model. You may wish to tune your model if time permits.
+
+3. As a stretched goal (optional), try an ML model which is not a neural network and compare.
+
+4. Discuss what you have learned from this assignment and discuss how you may build a better email spam filter.
+
+Dataset provided: SpamDataset.csv
