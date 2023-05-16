@@ -72,7 +72,7 @@ To learn more about the above parameters of a diamond, you are encouraged to vis
 
 A small e-commerce company want to understand its customers better using Machine Learning to target their loyalty program and promotion campaigns etc. Analyze the dataset provided (which is purposely kept small for exploration purpose).
 
-
+### Deliverable:
 You should include the following in your report (plus your Colab notebook with you Python code to get the results):
 
 1. How you tackle the dataset and what you want to find out.
@@ -81,7 +81,7 @@ You should include the following in your report (plus your Colab notebook with y
 
 3. Discuss what you have learned from the data, try to make appropriate recommendation(s) to the management.
 
-Dataset provided: CustomerDataset.csv
+**Dataset provided: CustomerDataset.csv**
 
 ## Assignment 4 – Spam Email Prediction using Neural Network
 
@@ -89,6 +89,7 @@ A cyber security company wishes to develop a SPAM filter based Artificial Neural
 
 The dataset consists of 4,600 of labelled instances, in .csv format. The dataset is already randomized and the first 3,600 samples are for training, and the remaining 1,000 samples are for testing.
 
+### Deliverable:
 You should include the following in your report (plus your Colab notebook with you Python code to get the results):
 
 1. Examine and understanding the feature set provided and handle any issues, if any, in the dataset.
@@ -99,4 +100,4 @@ You should include the following in your report (plus your Colab notebook with y
 
 4. Discuss what you have learned from this assignment and discuss how you may build a better email spam filter.
 
-Dataset provided: SpamDataset.csv
+**Dataset provided: SpamDataset.csv**
